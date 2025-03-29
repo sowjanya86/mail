@@ -3,7 +3,7 @@ import random
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 
-mails = ["sowjijettiboina@gmail.com","pujithavarre14@gmail.com","chennamsettiharini@gmail.com","jettianusha8@gmail.com]
+mails = ["sowjijettiboina@gmail.com","pujithavarre14@gmail.com","chennamsettiharini@gmail.com"]
 
 
 for i in mails:
